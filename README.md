@@ -13,7 +13,7 @@
 
 ## 📬 Contact
 
-- Telegram: [@your_tg](https://t.me/xela2003)  
+- Telegram: [@xela2003](https://t.me/xela2003)  
 - Email: [kichmarev@list.ru](mailto:kichmarev@list.ru)  
 
 ---
