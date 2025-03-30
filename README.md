@@ -15,17 +15,17 @@
 ---
 
 ## :bar_chart: GitHub Stats
-<p align="center">
+<p>
   <!-- Карточка статистики -->
   <img src="https://github-readme-stats.vercel.app/api?username=aalleexxaannddrr-prog&show_icons=true&theme=tokyonight" alt="aalleexxaannddrr-prog's GitHub stats" />
 </p>
 
-<p align="center">
+<p>
   <!-- Самые используемые языки -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
-<p align="center">
+<p>
   <!-- Стрик (серия активных дней) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalleexxaannddrr-prog&theme=tokyonight" alt="streak" />
 </p>
