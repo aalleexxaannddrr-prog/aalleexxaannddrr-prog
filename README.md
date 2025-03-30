@@ -1,28 +1,37 @@
-<h1 align="center">👋 Hi, I'm Aleksandr Kichmarev</h1>
+<!-- Приветственное сообщение с анимацией -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7F7F7&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi,+I'm+Aleksandr+Kichmarev;4th+year+student+at+ITMO+University;Java+Backend+Developer;Always+learning+new+things...)](https://github.com/aalleexxaannddrr-prog)
 
-<p align="center">
-  🎓 4th year student at ITMO University  
-  <br>
-  ☕ Java Backend Developer
+<!-- Счётчик просмотров профиля -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aalleexxaannddrr-prog&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<hr>
+---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## :star2: О себе
+- 🎓 4-й курс ИТМО  
+- ☕ Java Backend Developer  
 
+---
+
+## :bar_chart: GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-  />
+  <!-- Карточка статистики -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aalleexxaannddrr-prog&show_icons=true&theme=tokyonight" alt="aalleexxaannddrr-prog's GitHub stats" />
 </p>
 
-<hr>
-
-<h2 align="center">📬 Contact</h2>
+<p align="center">
+  <!-- Самые используемые языки -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
 
 <p align="center">
-  <a href="https://t.me/xela2003">Telegram: @xela2003</a>
-  <br>
-  <a href="mailto:kichmarev@list.ru">Email: kichmarev@list.ru</a>
+  <!-- Стрик (серия активных дней) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalleexxaannddrr-prog&theme=tokyonight" alt="streak" />
 </p>
+
+---
+
+## :handshake: Контакты
+[![Telegram Badge](https://img.shields.io/badge/-@xela2003-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/xela2003)
+[![Email Badge](https://img.shields.io/badge/kichmarev@list.ru-D14836?style=flat&logo=GMail&logoColor=white)](mailto:kichmarev@list.ru)
