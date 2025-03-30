@@ -8,8 +8,8 @@
 
 ---
 
-## :star2: О себе
-- 🎓 4-й курс ИТМО  
+## :star2: About me
+- 🎓 4th-year student at ITMO University  
 - ☕ Java Backend Developer  
 
 ---
@@ -32,6 +32,6 @@
 
 ---
 
-## :handshake: Контакты
+## :handshake: Contact Me
 [![Telegram Badge](https://img.shields.io/badge/-@xela2003-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/xela2003)
 [![Email Badge](https://img.shields.io/badge/kichmarev@list.ru-D14836?style=flat&logo=GMail&logoColor=white)](mailto:kichmarev@list.ru)
