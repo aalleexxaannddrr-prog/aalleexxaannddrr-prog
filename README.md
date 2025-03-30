@@ -1,19 +1,28 @@
-# 👋 Hi, I'm Aleksandr Kichmarev
+<h1 align="center">👋 Hi, I'm Aleksandr Kichmarev</h1>
 
-🎓 4th year student at ITMO University  
-☕ Java Backend Developer  
+<p align="center">
+  🎓 4th year student at ITMO University  
+  <br>
+  ☕ Java Backend Developer
+</p>
 
----
+<hr>
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+  />
+</p>
 
----
+<hr>
 
-## 📬 Contact
+<h2 align="center">📬 Contact</h2>
 
-- Telegram: [@xela2003](https://t.me/xela2003)  
-- Email: [kichmarev@list.ru](mailto:kichmarev@list.ru)  
-
----
+<p align="center">
+  <a href="https://t.me/xela2003">Telegram: @xela2003</a>
+  <br>
+  <a href="mailto:kichmarev@list.ru">Email: kichmarev@list.ru</a>
+</p>
