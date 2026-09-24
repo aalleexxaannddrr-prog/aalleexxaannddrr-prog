@@ -17,15 +17,6 @@
 ---
 
 ## :bar_chart: GitHub Stats
-<p>
-  <!-- Карточка статистики -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aalleexxaannddrr-prog&show_icons=true&theme=tokyonight" alt="aalleexxaannddrr-prog's GitHub stats" />
-</p>
-
-<p>
-  <!-- Самые используемые языки -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalleexxaannddrr-prog&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 <p>
   <!-- Стрик (серия активных дней) -->
